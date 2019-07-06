@@ -1,0 +1,69 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+#app {
+  display: flex;
+
+  /* 
+  * direção 
+  */
+  flex-direction: row;
+
+  /* 
+  * alinhamento 
+  */
+  align-items: center;
+
+  /* 
+  * espaçamento 
+  */
+  justify-content: space-around;
+
+  /* 
+  * quebra de linhas: wrap 
+  */
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+
+  /* 
+  * redimensionamento 
+  */
+
+  /* aumenta de acordo com o container */
+  /* flex-grow: 1; */
+
+  /* desabilita diminuir de acordo com o container */
+  /* flex-shrink: 0; */
+
+  /* união de flex-grow e flex-shrink */
+  /* flex: 1; */
+}
+
+/* 
+* ordenação 
+*/
+
+.red {
+  background-color: #f00;
+  order: 2;
+}
+
+.green {
+  background-color: #0f0;
+  order: 3;
+}
+
+.blue {
+  background-color: #00f;
+  order: 1;
+}
