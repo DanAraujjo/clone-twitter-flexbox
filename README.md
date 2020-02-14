@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 Twitter Flexbox
+  Twitter Flexbox
 </h1>
 
 <p align="center">
