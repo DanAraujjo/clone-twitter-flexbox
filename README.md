@@ -31,15 +31,15 @@
   <img alt="Frontend" src=".github/screen.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+O projeto visa criar um "clone" do Twitter utilizando apenas o Flexbox.
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
-
-## 💻 Projeto
-
-O projeto visa criar um "clone" do Twitter utilizando apenas o Flexbox.
 
 ## 🤔 Como contribuir
 
